@@ -1,0 +1,11 @@
+[
+  {
+    "file": "lsp/PLSimplify_Multi_v1_7.lsp",
+    "commands": [
+      "PLSM"
+    ],
+    "title": "批次聚合線簡化",
+    "category": "幾何處理",
+    "manual": "README.md"
+  }
+]

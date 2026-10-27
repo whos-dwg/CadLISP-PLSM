@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-10-27",
+  "scope": "One independent LISP tool; original bytes preserved",
+  "files": [
+    {
+      "path": "lsp/PLSimplify_Multi_v1_7.lsp",
+      "bytes": 8218,
+      "sha256": "d84538541615349e6db074acf323a94bc15751c6eb5ba8754e20e83aad7de487",
+      "encoding": "utf-8",
+      "bom": false,
+      "commands": [
+        {
+          "name": "PLSM",
+          "line": 196
+        }
+      ]
+    }
+  ]
+}
